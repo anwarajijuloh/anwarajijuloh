@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Designing
 - 🌱 I’m currently learning Programming and Editing
 - 💞️ I’m looking to collaborate on Project Online and Study Case
-- 📫 How to reach me dm on ig @yourwae_
+- 📫 How to reach me dm on ig @heyazizu
 
 <!---
 anwarajijuloh/anwarajijuloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
